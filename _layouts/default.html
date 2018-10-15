@@ -23,8 +23,9 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
-        	<li><a href="{{ '/committee' | absolute_url }}">Committee</a></li>
-        	<li><a href="{{ '/dates' | absolute_url }}">Dates</li>
+          <li><a href="{{ '/' | absolute_url }}"><strong>Home</strong></a></li>
+        	<li><a href="{{ '/committee' | absolute_url }}"><strong>Committee</strong></a></li>
+        	<li><a href="{{ '/dates' | absolute_url }}"><strong>Dates</strong></a></li>
         </ul>
 
         {% if site.show_downloads %}
