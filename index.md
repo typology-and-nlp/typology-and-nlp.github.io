@@ -8,4 +8,19 @@ Linguistic typology holds promise to solve this problem. This field of study com
 
 However, typological information has not yet been fully exploited, as experiments were mostly limited to few features (mostly related to word order) and to few tasks (mostly dependency parsing). Moreover, typological databases are wanting in coverage and their interpretable, absolute, discrete features cannot be integrated straightforwardly into the state-of-art NLP algorithms, which are opaque, contextual, and probabilistic.
 
-Our workshop aims at bridging this gap by encouraging a tighter collaboration of the scientific communities from the areas of linguistic typology and multilingual NLP. Moreover, we aim at fostering research in the following open problems: 1. Achievement of actual language-independence in algorithmic design. 2. Integration of typological features in joint multilingual / language transfer settings. 3. Automatic inference of typological features. 4. Interpretation of representations within multilingual neural models through typological knowledge.
+Our workshop aims at bridging this gap by encouraging a tighter collaboration of the scientific communities from the areas of linguistic typology and multilingual NLP. Moreover, we aim at fostering research in the following open problems:
+
+1. Achievement of actual language-independence in algorithmic design.
+2. Integration of typological features in joint multilingual / language transfer settings.
+3. Automatic inference of typological features.
+4. Interpretation of representations within multilingual neural models through typological knowledge.
+
+---
+
+## Invited Speakers
+
+[Richard Feynman](https://www.google.com/) is a so-and-so.
+
+[William Gladstone](https://www.google.com/) was the prime minister of the United Kingdom, and he was also a respected classicist, focusing on color.
+
+[Speaker 3](https://www.google.com/) didn't warrant much of a description. Just imagine that I wrote a whole paragaph for the person.
