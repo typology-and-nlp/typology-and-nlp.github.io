@@ -17,3 +17,8 @@ layout: default
 - Edoardo M. Ponti
 - Ivan Vulić
 - Ekaterina Vylomova
+
+## Program Committee (so far!)
+
+- Silvia Luraghi
+- Richard Futrell

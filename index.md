@@ -19,8 +19,12 @@ Our workshop aims at bridging this gap by encouraging a tighter collaboration of
 
 ## Invited Speakers
 
-[Richard Feynman](https://www.google.com/) is a so-and-so.
+[Emily Bender](http://faculty.washington.edu/ebender/)'s primary research interests are in multilingual grammar engineering, the study of variation, both within and across languages, and the relationship between linguistics and computational linguistics. She is the LSA's delegate to the ACL. Her 2013 book [*Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax*](http://dx.doi.org/10.2200/S00493ED1V01Y201303HLT020) aims to present linguistic concepts in an manner accessible to NLP practitioners.
 
-[William Gladstone](https://www.google.com/) was the prime minister of the United Kingdom, and he was also a respected classicist, focusing on color.
+[Jason Eisner](http://www.cs.jhu.edu/~jason/) works on machine learning, combinatorial algorithms, probabilistic models of linguistic structure, and declarative specification of knowledge and algorithms. His work addresses the question, "How can we appropriately formalize linguistic structure and discover it automatically?"
 
-[Speaker 3](https://www.google.com/) didn't warrant much of a description. Just imagine that I wrote a whole paragaph for the person.
+[Balthasar Bickel](https://www.comparativelinguistics.uzh.ch/en/bickel.html) aims at understanding the diversity of human language with rigorously tested causal models, i.e. at answering the question **what’s where why in language**. What structures are there, and how exactly do they vary? Engaged in both linguistic fieldwork and statistical modeling, he focuses on explaining universally consistent biases in the diachrony of grammar properties, biases that are independent of local historical events.
+
+[Sabine Stoll](https://www.psycholinguistics.uzh.ch/en/stoll.html) questions how children can cope with the incredible variation exhibited in the approximately 6000–7000 languages spoken around the world. Her main focus is the interplay of innate biological factors (such as the capacity for pattern recognition and imitation) with idiosyncratic and culturally determined factors (such as for instance type and quantity of input). Her approach is radically empirical, based first and foremost on the quantitative analysis of large corpora that record how children learn diverse languages.
+
+[Isabelle Augenstein](http://isabelleaugenstein.github.io) is a tenure-track assistant professor at the University of Copenhagen, Department of Computer Science since July 2017, affiliated with the Copenhagen NLP group and the Machine Learning Section, and work in the general areas of Statistical Natural Language Processing and Machine Learning. Her main research interests are weakly supervised and low-resource learning with applications including information extraction, machine reading and fact checking.
