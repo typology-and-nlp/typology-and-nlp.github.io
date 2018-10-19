@@ -18,7 +18,27 @@ layout: default
 - [Ivan Vulić](http://people.ds.cam.ac.uk/iv250/)
 - [Ekaterina Vylomova](https://scholar.google.ru/citations?user=JlVHhVUAAAAJ&hl=en)
 
-## Program Committee (so far!)
+## Program Committee (confirmed names so far!)
 
-- [Silvia Luraghi](http://studiumanistici.unipv.it/?pagina=docenti&id=68)
+- Željko Agić
+- Daniel Beck
+- Emily Bender
+- Giuseppe Celano
 - [Richard Futrell](http://socsci.uci.edu/~rfutrell/)
+- Gerhard Jaeger
+- Mark Johnson
+- Katharina Kann
+- Lori Levin
+- Tal Linzen
+- [Silvia Luraghi](http://studiumanistici.unipv.it/?pagina=docenti&id=68)
+- John Mansfield
+- David Mortensen
+- Jason Naradowsky
+- Robert Ostling
+- Hinrich Schütze
+- Anders Søgaard
+- Sabine Stoll
+- Jörg Tiedemann
+- Reut Tsarfaty
+- Yulia Tsvetkov
+- Shuly Wintner
