@@ -24,6 +24,8 @@ layout: default
 - Daniel Beck
 - Emily Bender
 - Giuseppe Celano
+- Jason Eisner
+- Mark Ellison
 - [Richard Futrell](http://socsci.uci.edu/~rfutrell/)
 - Gerhard Jaeger
 - Mark Johnson
@@ -42,3 +44,4 @@ layout: default
 - Reut Tsarfaty
 - Yulia Tsvetkov
 - Shuly Wintner
+- David Yarowsky
