@@ -41,9 +41,11 @@ layout: default
 - Robert Ostling
 - Hinrich Schütze
 - Anders Søgaard
+- Richard Sproat
 - Sabine Stoll
 - Jörg Tiedemann
 - Reut Tsarfaty
 - Yulia Tsvetkov
+- Daan Van Esch
 - Shuly Wintner
 - David Yarowsky
