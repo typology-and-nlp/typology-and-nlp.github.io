@@ -21,8 +21,10 @@ layout: default
 ## Program Committee (confirmed names so far!)
 
 - Željko Agić
+- Eshan Asgari
 - Daniel Beck
 - Emily Bender
+- Johannes Bjerva
 - Giuseppe Celano
 - Jason Eisner
 - Mark Ellison
