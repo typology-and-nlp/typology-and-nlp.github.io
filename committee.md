@@ -29,7 +29,7 @@ layout: default
 - Jason Eisner
 - Mark Ellison
 - [Richard Futrell](http://socsci.uci.edu/~rfutrell/)
-- Gerhard Jaeger
+- Gerhard Jäger
 - Mark Johnson
 - Katharina Kann
 - Lori Levin
@@ -38,7 +38,7 @@ layout: default
 - John Mansfield
 - David Mortensen
 - Jason Naradowsky
-- Robert Ostling
+- Robert Östling
 - Hinrich Schütze
 - Anders Søgaard
 - Richard Sproat
