@@ -14,6 +14,7 @@ layout: default
 
 - [Haim Dubossarsky](https://dblp.org/pers/hd/d/Dubossarsky:Haim)
 - [Arya D. McCarthy](https://aryamccarthy.github.io)
+- [Sebastian Mielke](https://github.com/sjmielke)
 - [Edoardo M. Ponti](http://people.ds.cam.ac.uk/ep490/)
 - [Ivan Vulić](http://people.ds.cam.ac.uk/iv250/)
 - [Ekaterina Vylomova](https://scholar.google.ru/citations?user=JlVHhVUAAAAJ&hl=en)
