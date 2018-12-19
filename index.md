@@ -35,7 +35,7 @@ In general, we believe that this inter-disciplinary workshop will be a great opp
 
 ## Invited Speakers
 
-[Emily Bender](http://faculty.washington.edu/ebender/)'s primary research interests are in multilingual grammar engineering, the study of variation, both within and across languages, and the relationship between linguistics and computational linguistics. She is the LSA's delegate to the ACL. Her 2013 book [*Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax*](http://dx.doi.org/10.2200/S00493ED1V01Y201303HLT020) aims to present linguistic concepts in an manner accessible to NLP practitioners.
+[Emily M. Bender](http://faculty.washington.edu/ebender/)'s primary research interests are in multilingual grammar engineering, the study of variation, both within and across languages, and the relationship between linguistics and computational linguistics. She is the LSA's delegate to the ACL. Her 2013 book [*Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax*](http://dx.doi.org/10.2200/S00493ED1V01Y201303HLT020) aims to present linguistic concepts in an manner accessible to NLP practitioners.
 
 [Jason Eisner](http://www.cs.jhu.edu/~jason/) works on machine learning, combinatorial algorithms, probabilistic models of linguistic structure, and declarative specification of knowledge and algorithms. His work addresses the question, "How can we appropriately formalize linguistic structure and discover it automatically?"
 

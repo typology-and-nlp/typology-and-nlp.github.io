@@ -24,7 +24,7 @@ layout: default
 - Željko Agić
 - Eshan Asgari
 - Daniel Beck
-- Emily Bender
+- Emily M. Bender
 - Johannes Bjerva
 - Giuseppe Celano
 - Jason Eisner
