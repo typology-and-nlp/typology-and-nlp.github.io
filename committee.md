@@ -30,6 +30,7 @@ layout: default
 - Jason Eisner
 - Mark Ellison
 - [Richard Futrell](http://socsci.uci.edu/~rfutrell/)
+- Eitan Grossman
 - Gerhard Jäger
 - Mark Johnson
 - Katharina Kann
