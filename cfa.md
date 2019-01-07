@@ -38,4 +38,4 @@ Submission Type
 We accept **extended abstracts**.
 These may report on work in progress or may be cross submissions that have already appeared in a non-NLP venue. The extended abstracts are of maximum 2 pages + references. These submissions are non-archival in order to allow submission to another venue. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized.
 
-The abstracts should use ACL 2019 templates. These should be submitted via softconf: [https://www.softconf.com/acl2019/typ-nlp/](https://www.softconf.com/acl2019/typnlp/).
+The abstracts should use ACL 2019 templates. These should be submitted via softconf: [https://www.softconf.com/acl2019/typnlp/](https://www.softconf.com/acl2019/typnlp/).
