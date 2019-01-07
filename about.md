@@ -12,6 +12,7 @@ layout: default
 - [Yevgeni Berzak](http://people.csail.mit.edu/berzak/)
 - [Ryan Cotterell](https://ryancotterell.github.io)
 - [Manaal Faruqui](https://www.manaalfaruqui.com)
+- [Eitan Grossman](https://huji.academia.edu/EitanGrossman)
 - [Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/)
 - [Roi Reichart](https://ie.technion.ac.il/~roiri/)
 
@@ -19,7 +20,6 @@ layout: default
 
 - [Haim Dubossarsky](https://dblp.org/pers/hd/d/Dubossarsky:Haim)
 - [Arya D. McCarthy](https://aryamccarthy.github.io)
-- [Sebastian Mielke](https://github.com/sjmielke)
 - [Edoardo M. Ponti](http://people.ds.cam.ac.uk/ep490/)
 - [Ivan Vulić](http://people.ds.cam.ac.uk/iv250/)
 - [Ekaterina Vylomova](https://scholar.google.ru/citations?user=JlVHhVUAAAAJ&hl=en)
@@ -35,7 +35,6 @@ layout: default
 - Jason Eisner
 - Mark Ellison
 - [Richard Futrell](http://socsci.uci.edu/~rfutrell/)
-- Eitan Grossman
 - Gerhard Jäger
 - Mark Johnson
 - Katharina Kann
