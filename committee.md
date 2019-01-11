@@ -40,6 +40,7 @@ layout: default
 - David Mortensen
 - Jason Naradowsky
 - Robert Östling
+- Michael Regan
 - Hinrich Schütze
 - Anders Søgaard
 - Richard Sproat
