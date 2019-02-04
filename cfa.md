@@ -7,7 +7,7 @@ Call for Abstracts
 
 Typology for Polyglot NLP, a workshop to be held at the 2019 meeting of the Association for Computational Linguistics (ACL) is now accepting submissions. 
 
-Contact Email: typology-and-nlp at googlegroups dot com
+Contact Email: arya at jhu dot edu
 Website: typology-and-nlp.github.io
 
 
