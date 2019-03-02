@@ -32,14 +32,14 @@ layout: default
 - Emily M. Bender
 - Johannes Bjerva
 - Giuseppe Celano
-- Jason Eisner
+- [Jason Eisner](http://www.cs.jhu.edu/~jason/)
 - Mark Ellison
 - [Richard Futrell](http://socsci.uci.edu/~rfutrell/)
 - Gerhard Jäger
 - Mark Johnson
 - Katharina Kann
 - Lori Levin
-- Tal Linzen
+- [Tal Linzen](http://tallinzen.net)
 - [Silvia Luraghi](http://studiumanistici.unipv.it/?pagina=docenti&id=68)
 - John Mansfield
 - David Mortensen
@@ -56,3 +56,7 @@ layout: default
 - Daan Van Esch
 - Shuly Wintner
 - [David Yarowsky](https://www.cs.jhu.edu/~yarowsky/)
+
+## ACL 2019 Anti-Harassment Policy:
+TyP-NLP adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Any participant who experiences harassment or hostile behavior may contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or contact [Priscilla Rasmussen](mailto:acl@aclweb.org), who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
+
