@@ -14,6 +14,7 @@ layout: default
 - [Manaal Faruqui](https://www.manaalfaruqui.com)
 - [Eitan Grossman](https://huji.academia.edu/EitanGrossman)
 - [Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/)
+- [Thierry Poibeau](http://lattice.cnrs.fr/Thierry-Poibeau?lang=en)
 - [Roi Reichart](https://ie.technion.ac.il/~roiri/)
 
 ## Organizing Committee
