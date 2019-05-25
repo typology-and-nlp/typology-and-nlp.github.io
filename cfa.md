@@ -28,8 +28,8 @@ TyP-NLP workshop is the first dedicated venue for typology-related research and 
 Important Dates
 ===============
 - Submission Deadline: Friday, <del>April 26</del> **May 10**, 2019—**EXTENDED!**
-- Notification of Acceptance: Friday, May 24, 2019
-- Camera-ready copy due from authors: Monday, June 3, 2019
+- Notification of Acceptance: <del>Friday, May 24</del> Monday, June 3, 2019
+- Camera-ready copy due from authors: <del>Monday, June 3</del> Monday, June 10, 2019
 - Workshop: Thursday, August 1, 2019
 
 Submission Type
