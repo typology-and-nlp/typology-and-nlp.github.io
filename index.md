@@ -2,6 +2,63 @@
 layout: default
 ---
 
+## Accepted Abstracts
+
+AFRICASIGN - A CROWD-SOURCING PLATFORM FOR LEXICAL DOCUMENTATION OF AFRICAN SIGN LANGUAGES  
+Abdelhadi Soudi, Kristof Van Laerhoven and Elmosta Bou-Souf
+
+CONTEXTUALIZATION OF MORPHOLOGICAL INFLECTION  
+Ekaterina Vylomova, Ryan Cotterell, Timothy Baldwin, Trevor Cohn and Jason Eisner
+
+CROSS-LINGUAL CCG INDUCTION: LEARNING CATEGORIAL GRAMMARS VIA PARALLEL CORPORA  
+Kilian Evang
+
+CROSS-LINGUISTIC ROBUSTNESS OF INFANT WORD SEGMENTATION ALGORITHMS: OVERSEGMENTING MORPHOLOGICALLY COMPLEX LANGUAGES  
+Georgia R. Loukatou
+
+CROSS-LINGUISTIC SEMANTIC TAGSET FOR CASE RELATIONSHIPS  
+Ritesh Kumar, Bornini Lahiri and Atul Kr. Ojha
+
+DISSECTING TREEBANKS TO UNCOVER TYPOLOGICAL TRENDS. A MULTILINGUAL COMPARATIVE APPROACH  
+Chiara Alzetta, Felice Dell'Orletta, Simonetta Montemagni and Giulia Venturi
+
+FEATURE COMPARISON ACROSS TYPOLOGICAL RESOURCES  
+Tifa de Almeida
+
+POLYGLOT PARSING FOR ONE THOUSAND AND ONE LANGUAGES (AND THEN SOME)  
+Ali Basirat, Miryam de Lhoneux, Artur Kulmizev, Murathan Kurfalı, Joakim Nivre and Robert Östling
+
+PREDICTING CONTINUOUS VOWEL SPACES IN THE WILDERNESS  
+Emily Ahn and David R. Mortensen
+
+SYNTACTIC TYPOLOGY FROM PLAIN TEXT USING LANGUAGE EMBEDDINGS  
+Taiqi He and Kenji Sagae
+
+TOWARDS A COMPUTATIONALLY-RELEVANT LINGUISTIC TYPOLOGY FOR POLYGLOT/MULTILINGUAL NLP  
+Ada Wan
+
+TOWARDS A MULTI-VIEW LANGUAGE REPRESENTATION: A SHARED SPACE OF DISCRETE AND CONTINUOUS LANGUAGE FEATURES  
+Arturo Oncevay, Barry Haddow and Alexandra Birch
+
+TRANSFER LEARNING FOR COGNATE IDENTIFICATION IN LOW-RESOURCE LANGUAGES  
+Eliel Soisalon-Soininen and Mark Granroth-Wilding
+
+TYPOLOGICAL FEATURE PREDICTION WITH MATRIX COMPLETION  
+Annebeth Buis and Mans Hulden
+
+UNSUPERVISED DOCUMENT CLASSIFICATION IN LOW-RESOURCE LANGUAGES FOR EMERGENCY SITUATIONS  
+Nidhi Vyas, Eduard Hovy and Dheeraj Rajagopal
+
+USING TYPOLOGICAL INFORMATION IN WALS TO IMPROVE GRAMMAR INFERENCE  
+Youyun Zhang, Tifa de Almeida, Kristen Howell and Emily M. Bender
+
+WHAT DO MULTILINGUAL NEURAL MACHINE TRANSLATION MODELS LEARN ABOUT TYPOLOGY?    
+Ryokan Ri and Yoshimasa Tsuruoka
+
+
+
+## Summary
+
 A long-standing goal in Natural Language Processing (NLP) is the **development of robust language technology** applicable across the world's languages. Until this goal is met, there will be limited global access to important applications such as Machine Translation or Information Retrieval. The main research challenge in multilingual NLP is to **mitigate the serious bottleneck** concerning the lack of annotated data for the majority of the world’s languages. Although we can approach this challenge via transfer of knowledge from resource-rich to resource-lean languages or via creation of models by joint learning from several languages, **we are still far from accurate and efficient models applicable to any language of the world**.
 
 One of the main problems is the **huge diversity of human languages**. While languages can share universal features at a deep level, at the surface level their structures and categories vary significantly. This compromises the performance of language-agnostic NLP algorithms when applied on a large scale: their design, training, and hyperparameter tuning suffer from language-specific biases. For instance, the perplexities of word-level language models suffer particularly on languages with rich morphology because this information is disregarded. Moreover, the variation in syntactic trees, unless reduced, hinders the performance of structured encoders when applied cross-lingually on Natural Language Inference.
