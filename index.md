@@ -4,9 +4,6 @@ layout: default
 
 ## Accepted Abstracts
 
-AFRICASIGN - A CROWD-SOURCING PLATFORM FOR LEXICAL DOCUMENTATION OF AFRICAN SIGN LANGUAGES  
-Abdelhadi Soudi, Kristof Van Laerhoven and Elmosta Bou-Souf
-
 CONTEXTUALIZATION OF MORPHOLOGICAL INFLECTION  
 Ekaterina Vylomova, Ryan Cotterell, Timothy Baldwin, Trevor Cohn and Jason Eisner
 
