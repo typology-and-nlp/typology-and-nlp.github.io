@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[**Program**](proceedings.pdf)
+
 ## Accepted Abstracts
 
 CONTEXTUALIZATION OF MORPHOLOGICAL INFLECTION  
