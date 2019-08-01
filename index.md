@@ -6,6 +6,10 @@ layout: default
 
 [**Program**](proceedings.pdf)
 
+## Keynote Speakers
+
+[**Keynote Speakers**](keynote-speakers.pdf)
+
 ## Accepted Abstracts
 
 CONTEXTUALIZATION OF MORPHOLOGICAL INFLECTION  
