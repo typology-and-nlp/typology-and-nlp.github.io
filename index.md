@@ -31,7 +31,7 @@ DISSECTING TREEBANKS TO UNCOVER TYPOLOGICAL TRENDS. A MULTILINGUAL COMPARATIVE A
 Chiara Alzetta, Felice Dell'Orletta, Simonetta Montemagni and Giulia Venturi
 
 FEATURE COMPARISON ACROSS TYPOLOGICAL RESOURCES  
-Tifa de Almeida
+Tifa de Almeida, Youyun Zhang, Kristen Howell and Emily M. Bender
 
 POLYGLOT PARSING FOR ONE THOUSAND AND ONE LANGUAGES (AND THEN SOME)  
 Ali Basirat, Miryam de Lhoneux, Artur Kulmizev, Murathan Kurfalı, Joakim Nivre and Robert Östling
