@@ -10,6 +10,9 @@ layout: default
 
 [**Keynote Speakers**](keynote-speakers.pdf)
 
+- Emily M. Bender's slides: [slides](http://faculty.washington.edu/ebender/papers/Typ-NLP-Bender.pdf)
+- Isabelle Augenstein's slides: [slides](https://www.slideshare.net/isabelleaugenstein/what-can-typological-knowledge-bases-and-language-representations-tell-us-about-linguistic-properties)
+
 ## Accepted Abstracts
 
 CONTEXTUALIZATION OF MORPHOLOGICAL INFLECTION  
