@@ -8,7 +8,7 @@ layout: default
 
 ## Keynote Speakers
 
-[**Keynote Speakers**](keynote-speakers.pdf)
+[**Overview**](keynote-speakers.pdf)
 
 - Emily M. Bender's slides: [slides](http://faculty.washington.edu/ebender/papers/Typ-NLP-Bender.pdf)
 - Isabelle Augenstein's slides: [slides](https://www.slideshare.net/isabelleaugenstein/what-can-typological-knowledge-bases-and-language-representations-tell-us-about-linguistic-properties)
@@ -16,52 +16,62 @@ layout: default
 ## Accepted Abstracts
 
 [CONTEXTUALIZATION OF MORPHOLOGICAL INFLECTION](assets/2019/papers/22.pdf)  
-Ekaterina Vylomova, Ryan Cotterell, Timothy Baldwin, Trevor Cohn and Jason Eisner
+Ekaterina Vylomova, Ryan Cotterell, Timothy Baldwin, Trevor Cohn and Jason Eisner  
+[[poster](assets/2019/posters/22_Contextualization_of_Morphological_Inflection.pdf)]
 
 [CROSS-LINGUAL CCG INDUCTION: LEARNING CATEGORIAL GRAMMARS VIA PARALLEL CORPORA](assets/2019/papers/17.pdf)  
-Kilian Evang
+Kilian Evang  
+[[poster](assets/2019/posters/17_Cross-lingual_CCG_Induction_Learning_Categorial_Grammars_via_Parallel_Corpora.pdf)]
 
 [CROSS-LINGUISTIC ROBUSTNESS OF INFANT WORD SEGMENTATION ALGORITHMS: OVERSEGMENTING MORPHOLOGICALLY COMPLEX LANGUAGES](assets/2019/papers/14.pdf)  
-Georgia R. Loukatou
+Georgia R. Loukatou  
 
 [CROSS-LINGUISTIC SEMANTIC TAGSET FOR CASE RELATIONSHIPS](assets/2019/papers/12.pdf)  
-Ritesh Kumar, Bornini Lahiri and Atul Kr. Ojha
+Ritesh Kumar, Bornini Lahiri and Atul Kr. Ojha  
 
 [DISSECTING TREEBANKS TO UNCOVER TYPOLOGICAL TRENDS. A MULTILINGUAL COMPARATIVE APPROACH](assets/2019/papers/5.pdf)  
-Chiara Alzetta, Felice Dell'Orletta, Simonetta Montemagni and Giulia Venturi
+Chiara Alzetta, Felice Dell'Orletta, Simonetta Montemagni and Giulia Venturi  
 
 [FEATURE COMPARISON ACROSS TYPOLOGICAL RESOURCES](assets/2019/papers/9.pdf)  
-Tifa de Almeida, Youyun Zhang, Kristen Howell and Emily M. Bender
+Tifa de Almeida, Youyun Zhang, Kristen Howell and Emily M. Bender  
 
 [POLYGLOT PARSING FOR ONE THOUSAND AND ONE LANGUAGES (AND THEN SOME)](assets/2019/papers/4.pdf)  
-Ali Basirat, Miryam de Lhoneux, Artur Kulmizev, Murathan Kurfalı, Joakim Nivre and Robert Östling
+Ali Basirat, Miryam de Lhoneux, Artur Kulmizev, Murathan Kurfalı, Joakim Nivre and Robert Östling  
+[[poster](assets/2019/posters/4_Polyglot_Parsing_for_One_Thousand_and_One_Languages.pdf)]
 
 [PREDICTING CONTINUOUS VOWEL SPACES IN THE WILDERNESS](assets/2019/papers/15.pdf)  
-Emily Ahn and David R. Mortensen
+Emily Ahn and David R. Mortensen  
+[[poster](assets/2019/posters/15_Predicting_Continuous_Vowel_Spaces_in_the_Wilderness.pdf)]
 
 [SYNTACTIC TYPOLOGY FROM PLAIN TEXT USING LANGUAGE EMBEDDINGS](assets/2019/papers/7.pdf)  
-Taiqi He and Kenji Sagae
+Taiqi He and Kenji Sagae  
+[[poster](assets/2019/posters/7_Syntactic_Typology_from_Plain_Text_Using_Language_Embeddings.pdf)]
 
 [TOWARDS A COMPUTATIONALLY RELEVANT TYPOLOGY FOR POLYGLOT/MULTILINGUAL NLP](assets/2019/papers/18.pdf)  
-Ada Wan
+Ada Wan  
 
 [TOWARDS A MULTI-VIEW LANGUAGE REPRESENTATION: A SHARED SPACE OF DISCRETE AND CONTINUOUS LANGUAGE FEATURES](assets/2019/papers/16.pdf)  
-Arturo Oncevay, Barry Haddow and Alexandra Birch
+Arturo Oncevay, Barry Haddow and Alexandra Birch  
+[[poster](assets/2019/posters/16_Towards_a_Multi-view_Language_Representation/_A_Shared_Space_of_Discrete_and_Continuous_Language_Features.pdf)]
 
 [TRANSFER LEARNING FOR COGNATE IDENTIFICATION IN LOW-RESOURCE LANGUAGES](assets/2019/papers/21.pdf)  
-Eliel Soisalon-Soininen and Mark Granroth-Wilding
+Eliel Soisalon-Soininen and Mark Granroth-Wilding  
+[[poster](assets/2019/posters/21_Transfer_Learning_for_Cognate_Identification_in_Low-Resource_Languages.pdf)]
 
 [TYPOLOGICAL FEATURE PREDICTION WITH MATRIX COMPLETION](assets/2019/papers/8.pdf)  
-Annebeth Buis and Mans Hulden
+Annebeth Buis and Mans Hulden  
+[[poster](assets/2019/posters/8_Typological_Feature_Prediction_with_Matrix_Completion.pdf)]
 
 [UNSUPERVISED DOCUMENT CLASSIFICATION IN LOW-RESOURCE LANGUAGES FOR EMERGENCY SITUATIONS](assets/2019/papers/3.pdf)  
-Nidhi Vyas, Eduard Hovy and Dheeraj Rajagopal
+Nidhi Vyas, Eduard Hovy and Dheeraj Rajagopal  
 
 [USING TYPOLOGICAL INFORMATION IN WALS TO IMPROVE GRAMMAR INFERENCE](assets/2019/papers/10.pdf)  
-Youyun Zhang, Tifa de Almeida, Kristen Howell and Emily M. Bender
+Youyun Zhang, Tifa de Almeida, Kristen Howell and Emily M. Bender  
+[[poster](assets/2019/posters/10_Using_Typological_Information_in_WALS_to_Improve_Grammar_Inference.pdf)]
 
 [WHAT DO MULTILINGUAL NEURAL MACHINE TRANSLATION MODELS LEARN ABOUT TYPOLOGY?](assets/2019/papers/6.pdf)    
-Ryokan Ri and Yoshimasa Tsuruoka
+Ryokan Ri and Yoshimasa Tsuruoka  
+[[poster](assets/2019/posters/6_What_Do_Multilingual_Neural_Machine_Translation_Models_Learn_about_Typology.pdf)]
 
 
 
