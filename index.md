@@ -31,6 +31,7 @@ Ritesh Kumar, Bornini Lahiri and Atul Kr. Ojha
 
 [DISSECTING TREEBANKS TO UNCOVER TYPOLOGICAL TRENDS. A MULTILINGUAL COMPARATIVE APPROACH](assets/2019/papers/5.pdf)  
 Chiara Alzetta, Felice Dell'Orletta, Simonetta Montemagni and Giulia Venturi  
+[[poster](assets/2019/posters/5_Dissecting_Treebanks_to_Uncover_Typological_Trends_a_Multilingual_Comparative_Approach.pdf)]
 
 [FEATURE COMPARISON ACROSS TYPOLOGICAL RESOURCES](assets/2019/papers/9.pdf)  
 Tifa de Almeida, Youyun Zhang, Kristen Howell and Emily M. Bender  
