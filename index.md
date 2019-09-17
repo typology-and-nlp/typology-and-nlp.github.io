@@ -11,6 +11,9 @@ layout: default
 [**Overview**](keynote-speakers.pdf)
 
 - Emily M. Bender's slides: [slides](http://faculty.washington.edu/ebender/papers/Typ-NLP-Bender.pdf)
+- Jason Eisner's slides: [slides](https://cs.jhu.edu/~arya/typ-nlp/eisner.pdf)
+- Balthasar Bickel's slides: [slides](https://cs.jhu.edu/~arya/typ-nlp/bickel.pdf)
+- Sabine Stoll's slides: [slides](https://cs.jhu.edu/~arya/typ-nlp/stoll.pdf)
 - Isabelle Augenstein's slides: [slides](https://www.slideshare.net/isabelleaugenstein/what-can-typological-knowledge-bases-and-language-representations-tell-us-about-linguistic-properties)
 
 ## Accepted Abstracts
