@@ -5,7 +5,7 @@ layout: default
 ## Dates
 
 
-1 August 2019. Colocated with ACL 2019 in Florence, Italy.
+TBD; hopefully co-located with EMNLP 2020.
 
 ## Steering Committee
 
