@@ -11,10 +11,8 @@ TBD; hopefully co-located with EMNLP 2020.
 
 - [Yevgeni Berzak](http://people.csail.mit.edu/berzak/)
 - [Ryan Cotterell](https://ryancotterell.github.io)
-- [Manaal Faruqui](https://www.manaalfaruqui.com)
 - [Eitan Grossman](https://huji.academia.edu/EitanGrossman)
 - [Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/)
-- [Thierry Poibeau](http://lattice.cnrs.fr/Thierry-Poibeau?lang=en)
 - [Roi Reichart](https://ie.technion.ac.il/~roiri/)
 
 ## Organizing Committee
@@ -27,35 +25,23 @@ TBD; hopefully co-located with EMNLP 2020.
 
 ## Program Committee (confirmed names so far!)
 
-- Željko Agić
-- Eshan Asgari
-- Daniel Beck
-- Emily M. Bender
 - Johannes Bjerva
-- Giuseppe Celano
-- [Jason Eisner](http://www.cs.jhu.edu/~jason/)
-- Mark Ellison
-- [Richard Futrell](http://socsci.uci.edu/~rfutrell/)
-- Gerhard Jäger
-- Mark Johnson
-- Katharina Kann
-- Lori Levin
-- [Tal Linzen](http://tallinzen.net)
-- [Silvia Luraghi](http://studiumanistici.unipv.it/?pagina=docenti&id=68)
-- John Mansfield
-- David Mortensen
-- Jason Naradowsky
-- Robert Östling
-- Michael Regan
-- Hinrich Schütze
-- Anders Søgaard
-- Richard Sproat
-- Sabine Stoll
-- Jörg Tiedemann
-- Reut Tsarfaty
-- Yulia Tsvetkov
-- Daan Van Esch
 - Shuly Wintner
+- Giuseppe Celano
+- John Mansfield
+- Robert Ostling
+- Jörg Tiedemann
+- Željko Agić
+- Daan van Esch
+- Tanja Samardžić
+- Ella Rabinovich
+- Barend Beekhuizen
+- Nidhi Vyas
+- Kilian Evang
+- Emily Ahn
+- Annebeth Buis
+- Giulia Venturi
+- Ada Wan
 - [David Yarowsky](https://www.cs.jhu.edu/~yarowsky/)
 
 ## ACL 2019 Anti-Harassment Policy:
