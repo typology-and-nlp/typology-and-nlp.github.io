@@ -3,3 +3,4 @@ theme: jekyll-theme-minimal
 title: "First workshop on Typology for Polyglot NLP"
 description: "Co-located with ACL 2019"
 logo: "/assets/images/logo.png"
+baseurl: "/2019"
