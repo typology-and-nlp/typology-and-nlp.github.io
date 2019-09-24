@@ -32,3 +32,11 @@ and automatic data-driven methods towards the joint goal of improving the knowle
 The format will be similar to the 2019 edition. The workshop will feature several invited speakers from the fields of (multilingual) NLP and linguistic typology (see the list below). We will also host a panel to bring in different perspectives on the problems shared by the two disciplines. Finally, we will issue a call for abstract submissions and the accepted abstracts will be presented at the workshop, providing new insights and ideas. We plan to make the short abstracts non-archival, in order not to discourage researchers from preferring main conference proceedings, and at the same time to ensure that interesting, exciting, and thought-provoking research is presented at the workshop. In particular, we will solicit 2-page or 4-page abstracts of already published work or work in progress.
 
 In general, we believe that this inter-disciplinary workshop will be a great opportunity to encourage research on a timely area which has not received such dedicated attention before but which is of interest to the large and diverse community of researchers working on multilingual NLP. We expect this workshop to ultimately lead into key methodology for improving the global reach of language technology.
+
+## Confirmed Speakers
+
+1. Miriam Butt (University of Kostanz)
+2. Yulia Tsvetkov (CMU)
+3. Richard Sproat (Google)
+4. William Croft (UNM)
+5. Harald Hammarström (Uppsala University)
