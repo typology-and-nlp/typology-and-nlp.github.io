@@ -4,8 +4,7 @@ layout: default
 
 ## Dates
 
-
-TBD; hopefully co-located with EMNLP 2020.
+Co-located with EMNLP 2020, November 11 or 12 (TBA).
 
 ## Steering Committee
 
